@@ -1,0 +1,2 @@
+# HoroscopeApp
+flutter horoscope app
